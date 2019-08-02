@@ -1,0 +1,11 @@
+2019-08-01 22:25:19,076 [http-nio-8080-exec-5] DEBUG -[FileServiceImpl.java:59]- 上传文件d:/files/2019/08/01/c2e9808632839d9ff9f6ed3f29c6ad00.jpg
+2019-08-01 22:25:19,239 [http-nio-8080-exec-3] DEBUG -[UserController.java:83]- admin修改了头像
+2019-08-01 22:28:23,968 [http-nio-8080-exec-4] INFO  -[ExcelController.java:40]- SELECT id, username '用户名', nickname '昵称' FROM sys_user t
+2019-08-01 22:28:25,703 [http-nio-8080-exec-3] INFO  -[ExcelController.java:40]- SELECT id, username '用户名', nickname '昵称' FROM sys_user t
+2019-08-01 22:28:26,278 [http-nio-8080-exec-8] INFO  -[ExcelController.java:40]- SELECT id, username '用户名', nickname '昵称' FROM sys_user t
+2019-08-01 22:28:26,654 [http-nio-8080-exec-2] INFO  -[ExcelController.java:40]- SELECT id, username '用户名', nickname '昵称' FROM sys_user t
+2019-08-01 22:28:26,814 [http-nio-8080-exec-6] INFO  -[ExcelController.java:40]- SELECT id, username '用户名', nickname '昵称' FROM sys_user t
+2019-08-01 22:28:27,302 [http-nio-8080-exec-1] INFO  -[ExcelController.java:40]- SELECT id, username '用户名', nickname '昵称' FROM sys_user t
+2019-08-01 22:35:35,390 [http-nio-8080-exec-7] DEBUG -[RoleServiceImpl.java:64]- 修改角色USER
+2019-08-01 22:36:31,830 [http-nio-8080-exec-2] DEBUG -[FileServiceImpl.java:73]- 删除文件：d:/files/2019/08/01/c2e9808632839d9ff9f6ed3f29c6ad00.jpg
+2019-08-01 22:36:50,971 [http-nio-8080-exec-10] DEBUG -[FileServiceImpl.java:59]- 上传文件d:/files/2019/08/01/68d4f0494578e6fd386ebf5601ff7c48.jpg
